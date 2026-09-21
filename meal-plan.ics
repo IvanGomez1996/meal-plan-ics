@@ -4,117 +4,117 @@ PRODID:-//Chefcito//Meal Plan//ES
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Plan de cocina
-X-WR-TIMEZONE:America/Buenos_Aires
+X-WR-TIMEZONE:America/Argentina/Buenos_Aires
 BEGIN:VEVENT
 UID:meal-2026-09-21-1@chefcito
-DTSTAMP:20260920T210100Z
+DTSTAMP:20260921T150000Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-SUMMARY:Almuerzo: pollo al horno + ensalada + arroz
-DESCRIPTION:All-day (sin hora fija). Meal prep: cocinar extra para tupper mar/vie ofi. Plato 1/2 verduras + proteina.
+SUMMARY:Almuerzo: meal-prep bowl (huevo + verduras + leftovers si hay)
+DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
 END:VEVENT
 BEGIN:VEVENT
 UID:meal-2026-09-21-2@chefcito
-DTSTAMP:20260920T210100Z
+DTSTAMP:20260921T150000Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-SUMMARY:Cena: omelette de claras + verduras salteadas
-DESCRIPTION:All-day (sin hora fija). Alta proteina / plato 1/2 verduras.
+SUMMARY:Cena: tarta de zapallitos (porción 1/3) — cocinar hoy
+DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
 END:VEVENT
 BEGIN:VEVENT
 UID:meal-2026-09-22-3@chefcito
-DTSTAMP:20260920T210100Z
+DTSTAMP:20260921T150000Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-SUMMARY:Almuerzo: leftover pollo (tupper ofi)
-DESCRIPTION:All-day (sin hora fija). Oficina — no cocinar. Leftover del lunes.
+SUMMARY:Almuerzo: leftover tarta de zapallitos (tupper ofi\, 2/3)
+DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
 END:VEVENT
 BEGIN:VEVENT
 UID:meal-2026-09-22-4@chefcito
-DTSTAMP:20260920T210100Z
+DTSTAMP:20260921T150000Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-SUMMARY:Cena: carne magra + pure de calabaza + ensalada
-DESCRIPTION:All-day (sin hora fija). Meal prep / plato 1/2 verduras + proteina.
+SUMMARY:Cena: pollo al horno + ensalada grande + arroz (cocinar extra para vie)
+DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
 END:VEVENT
 BEGIN:VEVENT
 UID:meal-2026-09-23-5@chefcito
-DTSTAMP:20260920T210100Z
+DTSTAMP:20260921T150000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-SUMMARY:Almuerzo: bowl garbanzos + verduras + huevo
-DESCRIPTION:All-day (sin hora fija). Meal prep / plato 1/2 verduras + proteina.
+SUMMARY:Almuerzo: leftover tarta de zapallitos (3/3) o bowl si ya no queda
+DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
 END:VEVENT
 BEGIN:VEVENT
 UID:meal-2026-09-23-6@chefcito
-DTSTAMP:20260920T210100Z
+DTSTAMP:20260921T150000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-SUMMARY:Cena: milanesa de pollo al horno + ensalada (prep vie)
-DESCRIPTION:All-day (sin hora fija). Cocinar extra para tupper viernes ofi.
+SUMMARY:Cena: carne magra + puré de calabaza + ensalada
+DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
 END:VEVENT
 BEGIN:VEVENT
 UID:meal-2026-09-24-7@chefcito
-DTSTAMP:20260920T210100Z
+DTSTAMP:20260921T150000Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-SUMMARY:Almuerzo: (cubierto — no planificar)
-DESCRIPTION:All-day (sin hora fija). Ya cubierto — no cocinar.
+SUMMARY:Almuerzo: (cubierto — no cocinar)
+DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
 END:VEVENT
 BEGIN:VEVENT
 UID:meal-2026-09-24-8@chefcito
-DTSTAMP:20260920T210100Z
+DTSTAMP:20260921T150000Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-SUMMARY:Cena: rapida — wrap atun/pollo + ensalada lista
-DESCRIPTION:All-day (sin hora fija). Llegada tarde: rapido / leftover / delivery ok.
+SUMMARY:Cena: rápida — wrap pollo/atún + ensalada lista
+DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
 END:VEVENT
 BEGIN:VEVENT
 UID:meal-2026-09-25-9@chefcito
-DTSTAMP:20260920T210100Z
+DTSTAMP:20260921T150000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Almuerzo: leftover pollo (tupper ofi)
-DESCRIPTION:All-day (sin hora fija). Oficina — leftover del miercoles.
+SUMMARY:Almuerzo: leftover pollo del martes (tupper ofi)
+DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
 END:VEVENT
 BEGIN:VEVENT
 UID:meal-2026-09-25-10@chefcito
-DTSTAMP:20260920T210100Z
+DTSTAMP:20260921T150000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Cena: pescado a la plancha + vegetales + quinoa
-DESCRIPTION:All-day (sin hora fija). Alta proteina / plato 1/2 verduras.
+DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
 END:VEVENT
 BEGIN:VEVENT
 UID:meal-2026-09-26-11@chefcito
-DTSTAMP:20260920T210100Z
+DTSTAMP:20260921T150000Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-SUMMARY:Almuerzo: meal prep bowl proteina + verduras
-DESCRIPTION:All-day (sin hora fija). Usar leftovers de la semana.
+SUMMARY:Almuerzo: omelette + verduras + pan
+DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
 END:VEVENT
 BEGIN:VEVENT
 UID:meal-2026-09-26-12@chefcito
-DTSTAMP:20260920T210100Z
+DTSTAMP:20260921T150000Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-SUMMARY:Cena: pizza casera integral + ensalada
-DESCRIPTION:All-day (sin hora fija). Plato 1/2 verduras + proteina (agregar pollo/atun).
+SUMMARY:Cena: milanesas de pollo al horno + ensalada
+DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
 END:VEVENT
 BEGIN:VEVENT
 UID:meal-2026-09-27-13@chefcito
-DTSTAMP:20260920T210100Z
+DTSTAMP:20260921T150000Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-SUMMARY:Almuerzo: huevos revueltos + verduras + pan
-DESCRIPTION:All-day (sin hora fija). Alta proteina / plato 1/2 verduras.
+SUMMARY:Almuerzo: bowl garbanzos + huevo + verduras
+DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
 END:VEVENT
 BEGIN:VEVENT
 UID:meal-2026-09-27-14@chefcito
-DTSTAMP:20260920T210100Z
+DTSTAMP:20260921T150000Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:Cena: asado liviano / parrilla + ensalada grande
-DESCRIPTION:All-day (sin hora fija). Fin de semana — proteina + media plato verduras.
+DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
 END:VEVENT
 END:VCALENDAR
