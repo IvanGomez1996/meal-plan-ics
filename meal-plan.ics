@@ -1,120 +1,141 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Chefcito//Meal Plan//ES
+PRODID:-//Grok Bot//Meal Plan//ES
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Plan de cocina
-X-WR-TIMEZONE:America/Argentina/Buenos_Aires
+X-WR-TIMEZONE:America/Buenos_Aires
 BEGIN:VEVENT
-UID:meal-2026-09-21-1@chefcito
-DTSTAMP:20260921T150000Z
+UID:meal-2026-09-21-1@meal-plan-ics
+DTSTAMP:20260922T153000Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-SUMMARY:Almuerzo: meal-prep bowl (huevo + verduras + leftovers si hay)
-DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
+SUMMARY:Cocinar (C) Bife + tarta + fideos
 END:VEVENT
 BEGIN:VEVENT
-UID:meal-2026-09-21-2@chefcito
-DTSTAMP:20260921T150000Z
+UID:meal-2026-09-21-2@meal-plan-ics
+DTSTAMP:20260922T153000Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-SUMMARY:Cena: tarta de zapallitos (porción 1/3) — cocinar hoy
-DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
+SUMMARY:Cocinar (C) Milanesas
 END:VEVENT
 BEGIN:VEVENT
-UID:meal-2026-09-22-3@chefcito
-DTSTAMP:20260921T150000Z
+UID:meal-2026-09-21-3@meal-plan-ics
+DTSTAMP:20260922T153000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Almuerzo: (L) Carne al horno
+END:VEVENT
+BEGIN:VEVENT
+UID:meal-2026-09-21-4@meal-plan-ics
+DTSTAMP:20260922T153000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Cena: (C) Bife + tarta + fideos + huevo duro
+END:VEVENT
+BEGIN:VEVENT
+UID:meal-2026-09-22-5@meal-plan-ics
+DTSTAMP:20260922T153000Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-SUMMARY:Almuerzo: leftover tarta de zapallitos (tupper ofi\, 2/3)
-DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
+SUMMARY:Almuerzo: (L) Carne al horno
 END:VEVENT
 BEGIN:VEVENT
-UID:meal-2026-09-22-4@chefcito
-DTSTAMP:20260921T150000Z
+UID:meal-2026-09-22-6@meal-plan-ics
+DTSTAMP:20260922T153000Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
-SUMMARY:Cena: pollo al horno + ensalada grande + arroz (cocinar extra para vie)
-DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
+SUMMARY:Cena: (L) Bife + tarta + fideos + huevo duro
 END:VEVENT
 BEGIN:VEVENT
-UID:meal-2026-09-23-5@chefcito
-DTSTAMP:20260921T150000Z
+UID:meal-2026-09-23-7@meal-plan-ics
+DTSTAMP:20260922T153000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-SUMMARY:Almuerzo: leftover tarta de zapallitos (3/3) o bowl si ya no queda
-DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
+SUMMARY:Almuerzo: (L) Bife + tarta + fideos + huevo duro
 END:VEVENT
 BEGIN:VEVENT
-UID:meal-2026-09-23-6@chefcito
-DTSTAMP:20260921T150000Z
+UID:meal-2026-09-23-8@meal-plan-ics
+DTSTAMP:20260922T153000Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
-SUMMARY:Cena: carne magra + puré de calabaza + ensalada
-DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
+SUMMARY:Cena: (L) Milanesas + huevo duro
 END:VEVENT
 BEGIN:VEVENT
-UID:meal-2026-09-24-7@chefcito
-DTSTAMP:20260921T150000Z
+UID:meal-2026-09-24-9@meal-plan-ics
+DTSTAMP:20260922T153000Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-SUMMARY:Almuerzo: (cubierto — no cocinar)
-DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
+SUMMARY:Almuerzo: Cubierto
 END:VEVENT
 BEGIN:VEVENT
-UID:meal-2026-09-24-8@chefcito
-DTSTAMP:20260921T150000Z
+UID:meal-2026-09-24-10@meal-plan-ics
+DTSTAMP:20260922T153000Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-SUMMARY:Cena: rápida — wrap pollo/atún + ensalada lista
-DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
+SUMMARY:Cena: (L) Milanesas + huevo duro
 END:VEVENT
 BEGIN:VEVENT
-UID:meal-2026-09-25-9@chefcito
-DTSTAMP:20260921T150000Z
+UID:meal-2026-09-25-11@meal-plan-ics
+DTSTAMP:20260922T153000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Almuerzo: leftover pollo del martes (tupper ofi)
-DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
+SUMMARY:Almuerzo: (L) Milanesas + huevo duro
 END:VEVENT
 BEGIN:VEVENT
-UID:meal-2026-09-25-10@chefcito
-DTSTAMP:20260921T150000Z
+UID:meal-2026-09-25-12@meal-plan-ics
+DTSTAMP:20260922T153000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:Cena: pescado a la plancha + vegetales + quinoa
-DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
+SUMMARY:Cena: (L) Salteado pechuga + vegetales
 END:VEVENT
 BEGIN:VEVENT
-UID:meal-2026-09-26-11@chefcito
-DTSTAMP:20260921T150000Z
+UID:meal-2026-09-26-13@meal-plan-ics
+DTSTAMP:20260922T153000Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-SUMMARY:Almuerzo: omelette + verduras + pan
-DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
+SUMMARY:Almuerzo: (L) Salteado pechuga + vegetales
 END:VEVENT
 BEGIN:VEVENT
-UID:meal-2026-09-26-12@chefcito
-DTSTAMP:20260921T150000Z
+UID:meal-2026-09-26-14@meal-plan-ics
+DTSTAMP:20260922T153000Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
-SUMMARY:Cena: milanesas de pollo al horno + ensalada
-DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
+SUMMARY:Cena: (L) Guiso de lentejas
 END:VEVENT
 BEGIN:VEVENT
-UID:meal-2026-09-27-13@chefcito
-DTSTAMP:20260921T150000Z
+UID:meal-2026-09-27-15@meal-plan-ics
+DTSTAMP:20260922T153000Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-SUMMARY:Almuerzo: bowl garbanzos + huevo + verduras
-DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
+SUMMARY:Cocinar (C) Carne al horno
 END:VEVENT
 BEGIN:VEVENT
-UID:meal-2026-09-27-14@chefcito
-DTSTAMP:20260921T150000Z
+UID:meal-2026-09-27-16@meal-plan-ics
+DTSTAMP:20260922T153000Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
-SUMMARY:Cena: asado liviano / parrilla + ensalada grande
-DESCRIPTION:All-day. Mitad verduras + proteina. Meal prep.
+SUMMARY:Cocinar (C) Salteado pechuga + vegetales
+END:VEVENT
+BEGIN:VEVENT
+UID:meal-2026-09-27-17@meal-plan-ics
+DTSTAMP:20260922T153000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Cocinar (C) Guiso de lentejas
+END:VEVENT
+BEGIN:VEVENT
+UID:meal-2026-09-27-18@meal-plan-ics
+DTSTAMP:20260922T153000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Almuerzo: (L) Guiso de lentejas
+END:VEVENT
+BEGIN:VEVENT
+UID:meal-2026-09-27-19@meal-plan-ics
+DTSTAMP:20260922T153000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:Cena: (C) Carne al horno
 END:VEVENT
 END:VCALENDAR
